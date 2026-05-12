@@ -1,6 +1,3 @@
-12951|NDLS Tejas Rajdhani|Mumbai Central|New Delhi|16/02/26|/3AC-90/2AC-60/1AC-30/Sleeper-145/General-250/|22:00|08:32|15h 32m
+12951|NDLS Tejas Rajdhani|Mumbai Central|New Delhi|16/02/26|/3AC-88/2AC-60/1AC-30/Sleeper-145/General-250/|22:00|08:32|15h 32m
 12301|Howrah Rajdhani|Howrah Jn|New Delhi|19/08/26|/3AC-0/2AC-0/1AC-0/Sleeper-145/General-250/|16:50|10:05|17h 15m
-12424|Dibrugarh Rajdhani|New Delhi|Dibrugarh|19/04/26|/3AC-30/2AC-15/1AC-9/Sleeper-250/General-350/|16:20|06:05|37h 45m
 04530|Sirhind-Madhubani Spl|Sirhind|Madhubani|25/04/26|/3AC-88/2AC-60/1AC-30/Sleeper-0/General-0/|13:00|19:00|30h 00m
-16708|Tirunelveli-Mangaluru|Tirunelveli|Mangaluru Jn|03/06/26|/3AC-150/2AC-100/1AC-90/Sleeper-158/General-485/|15:45|06:55|15h 10m
-

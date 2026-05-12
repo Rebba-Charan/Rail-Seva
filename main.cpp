@@ -7,7 +7,6 @@
 using namespace std;
 int main()
 {
-    cout<<"Running";
     srand(time(0));
     int choice;
     while(1)
@@ -195,7 +194,7 @@ int main()
     }
     else
     {
-        cout<<"InValid Choice Enter either among these 1/2/3/4/5\n";
+        cout<<"InValid Choice Enter either among these 1/2/3/4\n";
     } 
 }  
 cout<<"Thankyou For visiting our website...Wish You a Wonderful day\n"; 
