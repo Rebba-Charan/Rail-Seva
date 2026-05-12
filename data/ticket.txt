@@ -1,0 +1,7 @@
+7117331241|7989262757|Mumbai Central|New Delhi|16/02/26*|16/02/26*|NDLS Tejas Rajdhani|12951|1AC|Sun May 10 11:57:14 2026
+
+9551865609|7989262757|Mumbai Central|New Delhi|16/02/26*|16/02/26*|NDLS Tejas Rajdhani|12951|3AC|Sun May 10 12:00:59 2026
+
+1457911006|7989262757|Mumbai Central|New Delhi|16/02/26*|16/02/26*|NDLS Tejas Rajdhani|12951|2AC|Sun May 10 12:02:33 2026
+
+
